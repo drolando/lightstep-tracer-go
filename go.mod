@@ -1,4 +1,4 @@
-module github.com/lightstep/lightstep-tracer-go
+module github.com/drolando/lightstep-tracer-go
 
 go 1.12
 
